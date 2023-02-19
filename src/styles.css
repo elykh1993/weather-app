@@ -1,0 +1,54 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  font-size: 45px;
+  line-height: 48px;
+  font-family: "Moon Dance", cursive;
+}
+h2 {
+  text-align: left;
+}
+h5 {
+  text-align: center;
+  margin: 0;
+  font-size: 45px;
+  line-height: 48px;
+  font-family: "Moon Dance", cursive;
+}
+h3 {
+  text-align: center;
+  margin: 0;
+  font-size: 24px;
+  line-height: 22px;
+  font-family: "Moon Dance", cursive;
+}
+ul {
+  list-style-type: none;
+}
+.selectedCity{
+  text-align: center;
+  margin: 0;
+  font-size: 45px;
+  line-height: 48px;
+  font-family: "Moon Dance", cursive;
+}
